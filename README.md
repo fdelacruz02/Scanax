@@ -5,3 +5,5 @@ Imagine a technology that empowers the elderly or those who frequently use medic
 The extracted data could then be presented in **accessible formats** for visually impaired users or as **digital text** for easy sharing.
 
 This solution will revolutionize medication management, ensuring safety and accessibility for diverse users.
+
+[try it out here](scanax.tech)
