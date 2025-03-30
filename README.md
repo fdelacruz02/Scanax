@@ -6,4 +6,4 @@ The extracted data could then be presented in **accessible formats** for visuall
 
 This solution will revolutionize medication management, ensuring safety and accessibility for diverse users.
 
-[try it out here](scanax.tech)
+[try it out here](https://scanax.tech)
